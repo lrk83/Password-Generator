@@ -15,4 +15,4 @@ This webpage randomly generates a password to meet user-inputed criteria. When t
 
 ![Alert for invalid length](https://github.com/lrk83/Password-Generator/blob/main/assets/pictures/Screen%20Shot%202021-05-29%20at%207.16.27%20PM.png)
 
-![Alert for choosing no character type]()
+![Alert for choosing no character type](https://github.com/lrk83/Password-Generator/blob/main/assets/pictures/Screen%20Shot%202021-05-29%20at%207.26.55%20PM.png)
