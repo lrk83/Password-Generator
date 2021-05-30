@@ -44,7 +44,7 @@ var generatePassword = function(){
     
     //if user does not select any character type alert them and prompt them again
     if (upperCase===false && lowerCase===false && num===false && specialChar===false){
-      window.alert("Password must include at least one type of caracter");
+      window.alert("Password must include at least one type of character");
       return null;
     }
 

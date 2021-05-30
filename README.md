@@ -9,6 +9,10 @@ This webpage randomly generates a password to meet user inputed critera. When th
 
 ### Screenshots
 
-![Image of Deployed Application]()
+![Random password with all character types](https://github.com/lrk83/Password-Generator/blob/main/assets/pictures/Screen%20Shot%202021-05-29%20at%207.16.55%20PM.png)
 
-![Image of Deployed Application]()
+![Random password with only capital letters](https://github.com/lrk83/Password-Generator/blob/main/assets/pictures/Screen%20Shot%202021-05-29%20at%207.17.08%20PM.png)
+
+![Alert for invalid length](https://github.com/lrk83/Password-Generator/blob/main/assets/pictures/Screen%20Shot%202021-05-29%20at%207.16.27%20PM.png)
+
+![Alert for choosing no character type]()
